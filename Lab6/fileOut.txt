@@ -1,0 +1,7 @@
+Statistics for the numbers in fileIn.txt:
+Average= 6219.54821 
+Maximum= 76756.00000 
+Minimum= -4.00000 
+Negative numbers= 1 
+Numbers between 0 and 100= 16 
+Numbers above or equal to 100= 7 
