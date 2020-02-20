@@ -1,0 +1,5 @@
+1.Why is it important for instance variables to be private?
+- It is important for the instance variables to be private because they set the value and they cant have open access or anyone can change them freely.
+
+2.Propose  a  new  method  for  the  Geniegotchi  class.  Provide  its  signature  and describe  what  it  does  (what  it  takes,  what  it  returns,  etc).  You  do  not  have  to implement it.
+- Some games that the genie can play with the user, such as guess the number etc. It could be void, and return nothing, only print statements.
