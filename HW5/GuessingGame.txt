@@ -1,0 +1,1 @@
+One statregy I implemented was that i try out every number that is a multiple of ten like 10,20,30,...,100 and with that i saw where it was too high and too low and once i found out the multiple i tried all the numbers in that range with the same tactic. usually took me 10-25 tries. 
