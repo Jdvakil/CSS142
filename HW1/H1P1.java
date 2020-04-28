@@ -19,6 +19,9 @@ public class H1P1{
         double Bmi2 = (weight/(height*height))*703;
         return Bmi2;
     }
+    public static double add(int a, int b){
+        return a+b;
+    }
 
     public static void bmiPrint(double bmi)
     {
